@@ -43,6 +43,11 @@ Foi utilizado Logistic Regression devido:
 
 ## Como Executar
 
+### Configurar chave de API
+Caso não seja configurada uma chave da API Google Fact Check,
+o sistema continuará funcionando utilizando apenas o modelo
+de Machine Learning
+
 ### Instalar dependências
 python -m pip install -r requirements.txt
 
