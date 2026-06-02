@@ -44,7 +44,7 @@ Foi utilizado Logistic Regression devido:
 ## Como Executar
 
 ### Instalar dependências
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 
 ### Treinar modelo
 python train_model.py
